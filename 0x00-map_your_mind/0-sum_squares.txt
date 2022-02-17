@@ -1,0 +1,3 @@
+function named sumSquares takes in numbers from 1 number to infinity(number1, number2, n...)
+  the numbers are stored to avariable called squared = each number inserted is then squared summed with every available number
+	at the end we return the sum of all the squared numbers stored in the variable squared 
