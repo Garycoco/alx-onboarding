@@ -1,0 +1,3 @@
+function named threeNumers takes 3 numbers(number1, number2, number3):
+	store the three numbers to a variable called numbers = the numbers are put into a list [number1, number2, number3]
+	then return the numbers sorted in ascending order
