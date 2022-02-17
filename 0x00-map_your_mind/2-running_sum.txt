@@ -1,0 +1,11 @@
+
+create a variable called default = an empty list []
+while the statements below are True do as instructed, if not continue asking a user for a number
+	  inside the loop create a variable called number to save an integer number entered by a user
+	  if the number enterd by the user is > than 0:
+		    take that number and put it inside the empty list(default) that we created earlier
+	      after that print the sum of the numbers in the list
+
+	  but if the number is < 0:
+		    break the loop
+		    print the sum of the number that are already in the list
